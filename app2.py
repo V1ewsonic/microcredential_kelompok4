@@ -1,8 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 # me-non aktifkan peringatan pada python
 import warnings
 warnings.filterwarnings('ignore')
